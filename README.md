@@ -1,7 +1,7 @@
 # Data Analyst
 
-###Work Experience
+### Work Experience
 
-###Projects
+### Projects
 
-###Education
+### Education
